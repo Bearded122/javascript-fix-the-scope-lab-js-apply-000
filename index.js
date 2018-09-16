@@ -1,11 +1,12 @@
 var animal = 'dog'
 
 function myAnimal() {
-  var animal = "cat";
-  console.log(animal)
+  var animal = 'dog';
+  return animal
 }
 
 function myAnimal() {
+  var animal = 'cat'
   return animal
 }
 
