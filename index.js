@@ -43,3 +43,6 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 var theFunk = funkyFunction()()
+
+
+//side note, this last park really took a while for me to figure out, but still it was a lot of fun to figute out!
